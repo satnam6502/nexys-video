@@ -1,2 +1,2 @@
 # nexys-video
-Circuit designs for the Arttix-7 FPGA Digilent FPGA board
+Circuit designs for the Artix-7 FPGA Digilent FPGA board
